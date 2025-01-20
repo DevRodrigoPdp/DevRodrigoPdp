@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Puerta Del Pozo</h1>
-<h3 align="center">A passionate frontend developer from Spain,Madrid.</h3>
+<h3>A passionate frontend developer from Spain,Madrid.</h3>
 <h3>I have a degree in Multiplatform Application Development (DAM), but my true passion lies in full-stack development. This project reflects my journey in honing my web development skills and exploring interactive applications.</h3>
 
 - 🌱 I’m currently learning **JavaScript,React**
