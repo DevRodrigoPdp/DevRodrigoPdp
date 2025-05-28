@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript,React**
 
-- 🤝 I’m looking for help with [my portfolio](https://github.com/DevRodrigoPdp/Portfolio)
+- 🤝 I’m looking for help with [My Portfolio](https://github.com/DevRodrigoPdp/portfolioReact)
 
 - 📫 How to reach me **rpuertadelpozo@gmail.com**
 
