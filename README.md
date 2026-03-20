@@ -1,89 +1,42 @@
-<div align="center">
+# Rodrigo Puerta Del Pozo
 
-```
-██████╗  ██████╗ ██████╗ ██████╗ ██╗ ██████╗  ██████╗
-██╔══██╗██╔═══██╗██╔══██╗██╔══██╗██║██╔════╝ ██╔═══██╗
-██████╔╝██║   ██║██║  ██║██████╔╝██║██║  ███╗██║   ██║
-██╔══██╗██║   ██║██║  ██║██╔══██╗██║██║   ██║██║   ██║
-██║  ██║╚██████╔╝██████╔╝██║  ██║██║╚██████╔╝╚██████╔╝
-╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝
-```
+**Web Developer & Multiplatform App Developer** · Madrid, Spain 🇪🇸
 
-### Web Developer · Multiplatform App Developer · Madrid 🇪🇸
+Degree in Multiplatform Application Development (DAM). Focused on building clean and functional web experiences. Currently deepening my skills in JavaScript and React.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+clean+web+experiences+%F0%9F%8C%90;Crafting+cross-platform+apps+%F0%9F%93%B1;Currently+open+to+work+%F0%9F%94%8D)](https://git.io/typing-svg)
-
-</div>
+🔍 **Open to work** — looking for opportunities as a Web Developer  
+📫 rpuertadelpozo@gmail.com
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix animation" />
+### Stack
 
-### 👨‍💻 About me
+**Web**
+&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-```js
-const rodrigo = {
-  name:     "Rodrigo Puerta Del Pozo",
-  location: "Madrid, Spain 🇪🇸",
-  degree:   "DAM — Multiplatform App Dev",
-  roles:    ["Web Developer", "App Developer"],
-  stack:    ["HTML", "CSS", "JS", "React"],
-  status:   "🔍 Open to work as Web Developer",
-  contact:  "rpuertadelpozo@gmail.com"
-};
-```
-
-- 🎓 Degree in **Multiplatform Application Development (DAM)**
-- 🌱 Deepening my skills in **JavaScript & React**
-- 🔭 Building my **[React Portfolio](https://github.com/DevRodrigoPdp/portfolioReact)**
-- 🔍 **Actively looking for opportunities as a Web Developer**
-- 📫 **rpuertadelpozo@gmail.com**
+**App**
+&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ---
 
-### 🌐 Web Stack
+### Stats
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git&theme=dark" />
-</p>
-
-### 📱 App Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,spring&theme=dark" />
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrodrigopdp&layout=compact&theme=default&hide_border=true" />
 
 ---
 
-### 📊 GitHub Stats
+### Connect
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrodrigopdp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrodrigopdp&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devrodrigopdp&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 🤝 Let's connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rodrigo-puerta-del-pozo-b382142b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rpuertadelpozo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/DevRodrigoPdp/portfolioReact" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devrodrigopdp&color=6C63FF&style=flat-square&label=Profile+views" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-puerta-del-pozo-b382142b0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://github.com/DevRodrigoPdp/portfolioReact)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rpuertadelpozo@gmail.com)
