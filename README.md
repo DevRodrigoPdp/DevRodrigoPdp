@@ -2,7 +2,7 @@
 
 **Web Developer & Multiplatform App Developer** · Madrid, Spain 🇪🇸
 
-Degree in Multiplatform Application Development (DAM). Focused on building clean and functional web experiences. Currently deepening my skills in JavaScript and React.
+Web developer and multiplatform app developer with a degree in Multiplatform Application Development (DAM). Experienced building web interfaces and cross-platform applications, with a growing focus on modern frontend development with JavaScript and React.
 
 🔍 **Open to work** — looking for opportunities as a Web Developer  
 📫 rpuertadelpozo@gmail.com
